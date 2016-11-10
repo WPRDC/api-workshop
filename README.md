@@ -2,7 +2,8 @@
 # WPRDC API Workshop
 WPRDC site: http://wprdc.org  
 E-mail: wprdc-AT-pitt.edu  
-Twitter: @wprdc
+Twitter: @wprdc  
+[Workshop Slides](https://docs.google.com/presentation/d/1zXTJ6VfbdCU14PobXvXeIC1XiyigvG3xWYvyeNnIhCE)
 
 If you make something cool, send us a link to it. We'll be blogging about our API talks and would like examples to include in our blog post.
 
@@ -28,6 +29,9 @@ Most Commonly Used Endpoints:
 [Requests Python Library](http://docs.python-requests.org/en/master/)  
 [Tweepy Documentation](http://tweepy.readthedocs.io/en/v3.5.0/)  
 [Date and Time Formats for strftime](http://strftime.org/)  
+
+## Tools
+[Postman](https://www.getpostman.com/)
 
 ## Further Reading
 [API (General Case)](https://en.wikipedia.org/wiki/Application_programming_interface)  
