@@ -28,7 +28,7 @@ Most Commonly Used Endpoints:
 [Date and Time Formats for strftime](http://strftime.org/)  
 
 ## Tools
-[Postman](https://www.getpostman.com/)
+[Postman](https://www.getpostman.com/)  
 [Burgh's Eye View](http://analytics.pittsburghpa.gov/BurghsEyeView/)
 
 ## Further Reading
