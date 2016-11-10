@@ -7,12 +7,10 @@ Twitter: @wprdc
 
 If you make something cool, send us a link to it. We'll be blogging about our API talks and would like examples to include in our blog post.
 
-## Simple WPRDC API Examples
-[Jupyter Notebook](http://104.197.121.217/user/e16ec9ef7e10e2650499b54e1734deb3/notebooks/Tiny_Examples.ipynb)
 
+## Simple WPRDC API Examples and Twitter Bot Town Crier Jupyter Notebooks
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/wprdc/api-workshop)
 
-## Twitter Bot Town Crier
-[Jupyter Notebook](http://104.197.121.217/user/e16ec9ef7e10e2650499b54e1734deb3/notebooks/twitter_bot_demo.ipynb)
 
 ## MadLib Generator
 Generator: [http://www.wprdc.org/adlibs/](http://www.wprdc.org/adlibs/)  
