@@ -1,4 +1,3 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/wprdc/api-workshop)
 # WPRDC API Workshop
 WPRDC site: http://wprdc.org  
 E-mail: wprdc-AT-pitt.edu  
