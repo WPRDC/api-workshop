@@ -1,4 +1,5 @@
 # WPRDC API Workshop
+[www.wprdc.org](http://www.wprdc.org)
 
 ## Simple WPRDC API Examples
 Jupyter Notebook:
@@ -8,12 +9,27 @@ Jupyter Notebook:
 ## Twitter Bot Town Crier
 Jupyter Notebook:
 
-[Link to where Jupyter Notebook can be run online, maybe through http://mybinder.org/]
+[Link to where Jupyter Notebook can be run online, maybe through http://mybinder.org/]  
 
-### CKAN API documentation
-[http://docs.ckan.org/en/ckan-2.3.5/api/index.html](http://docs.ckan.org/en/ckan-2.3.5/api/index.html)
+## MadLib Generator
+Generator: [http://www.wprdc.org/adlibs/](http://www.wprdc.org/adlibs/)  
+Code: [https://github.com/WPRDC/adlibs](https://github.com/WPRDC/adlibs)  
 
-### Contact
+## CKAN API documentation
+[General CKAN API Documentation](http://docs.ckan.org/en/ckan-2.3.5/api/index.html)  
+[CKAN DataStore API Documentation](http://docs.ckan.org/en/latest/maintaining/datastore.html)  
+
+## Other Documentation
+[Requests Python Library](http://docs.python-requests.org/en/master/)  
+[Tweepy Documentation](http://tweepy.readthedocs.io/en/v3.5.0/)  
+[Date and Time Formats for strftime](http://strftime.org/)  
+
+## Further Reading
+[API (General Case)](https://en.wikipedia.org/wiki/Application_programming_interface)  
+[Representational State Transfer (REST)](https://en.wikipedia.org/wiki/Representational_state_transfer)  
+[HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)  
+
+## Contact
 WPRDC site: http://wprdc.org
 E-mail: wprdc-AT-pitt.edu
 Twitter: @wprdc
