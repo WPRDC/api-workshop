@@ -8,10 +8,10 @@ If you make something cool, send us a link to it. We'll be blogging about our AP
 
 
 ## Simple WPRDC API Examples and Twitter Bot Town Crier Jupyter Notebooks
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/wprdc/api-workshop)
 
+For runnable versions of notebooks with a) simple examples and b) a Twitter Bot demo, click this button: [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/wprdc/api-workshop)
 
-## MadLib Generator
+## Open Data Mad Libs Generator
 Generator: [http://www.wprdc.org/adlibs/](http://www.wprdc.org/adlibs/)  
 Code: [https://github.com/WPRDC/adlibs](https://github.com/WPRDC/adlibs)  
 
