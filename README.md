@@ -1,10 +1,8 @@
 # WPRDC API Workshop
 WPRDC site: http://wprdc.org  
 E-mail: wprdc-AT-pitt.edu  
-Twitter: [@wprdc](http://twitter.com/wprdc)
-
-[Pitt CS Club Talk Slides](https://docs.google.com/presentation/d/1Me2JOt4AgZwigne0rgj6nHvt8Q7hj6ynyhLLtgi4LFg/edit#slide=id.g13a6b61e14_0_130)
-
+Twitter: [@wprdc](http://twitter.com/wprdc)  
+[Pitt CS Club Talk Slides](https://docs.google.com/presentation/d/1Me2JOt4AgZwigne0rgj6nHvt8Q7hj6ynyhLLtgi4LFg/edit#slide=id.g13a6b61e14_0_130)  
 [SUDS Workshop Slides](https://docs.google.com/presentation/d/1zXTJ6VfbdCU14PobXvXeIC1XiyigvG3xWYvyeNnIhCE)
 
 If you make something cool, send us a link to it. We'll be blogging about our API talks and would like examples to include in our blog post.
