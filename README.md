@@ -1,7 +1,7 @@
 # WPRDC API Workshop
 WPRDC site: http://wprdc.org  
 E-mail: wprdc-AT-pitt.edu  
-Twitter: @wprdc  
+Twitter: [@wprdc](http://twitter.com/wprdc)
 [Workshop Slides](https://docs.google.com/presentation/d/1zXTJ6VfbdCU14PobXvXeIC1XiyigvG3xWYvyeNnIhCE)
 
 If you make something cool, send us a link to it. We'll be blogging about our API talks and would like examples to include in our blog post.
