@@ -23,6 +23,8 @@ Most Commonly Used Endpoints:
 * [datastore_search](http://docs.ckan.org/en/latest/maintaining/datastore.html#ckanext.datastore.logic.action.datastore_search)
 * [datastore_search_sql](http://docs.ckan.org/en/latest/maintaining/datastore.html#ckanext.datastore.logic.action.datastore_search_sql)
 
+[ckanapi](https://github.com/ckan/ckanapi) is a nice Python wrapper for the CKAN API as well as a command-line interface for the API. This provides a nice alternative to doing things through Python's requests library.
+
 ## Other Documentation
 [Requests Python Library](http://docs.python-requests.org/en/master/)  
 [Tweepy Documentation](http://tweepy.readthedocs.io/en/v3.5.0/)  
